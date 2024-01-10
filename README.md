@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **WellBridge**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Computer Security**
 
 - 💬 Ask me about **Next.js, Okta Authentication**
 
