@@ -2,9 +2,6 @@
 <h3 align="center">Full-stack Web Developer/Technical Leader/Product Owner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vo-d&label=Profile%20views&color=0e75b6&style=flat" alt="vo-d" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vo-d" alt="vo-d" /></a> </p>
-
 - 🔭 I’m currently working on **WellBridge**
 
 - 🌱 I’m currently learning **Machine Learning, Computer Security**
