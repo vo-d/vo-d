@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vo-d&label=Profile%20views&color=0e75b6&style=flat" alt="vo-d" /> </p>
 
-- 🔭 I’m currently working on **Ori.Gatou**
+- 🔭 I’m currently working at **Ori.Gatou**
 
-- 🌱 I’m currently learning **Machine Learning, Computer Security**
+- 🌱 I’m currently learning **Machine Learning and Computer Security**
 
 - 💬 Ask me about **Next.js, Okta Authentication**
 
-- 📫 How to reach me **daidaivo2002@gmail.com**
+- 📫 How to reach me: **daidaivo2002@gmail.com**
 
-- ⚡ Fun fact **Coffee and hot chocolate are my favorite drinks**
+- ⚡ Fun fact: **Coffee and hot chocolate are my favorite drinks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
