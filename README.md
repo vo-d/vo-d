@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Computer Security**
 
-- 💬 Ask me about **Next.js, Okta Authentication**
+- 💬 Ask me about **Next.js, Golang, and Identity Access Management**
 
 - 📫 How to reach me: **daidaivo2002@gmail.com**
 
