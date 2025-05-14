@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working at **Ori.Gatou**
 
-- 🌱 I’m currently learning **Machine Learning and Computer Security**
+- 🌱 I’m currently learning **Machine Learning and Project Management**
 
-- 💬 Ask me about **Next.js, Golang, and Identity Access Management**
+- 💬 Ask me about **Building a home lab, deployment of projects**
 
 - 📫 How to reach me: **daidaivo2002@gmail.com**
 
-- ⚡ Fun fact: **Coffee and hot chocolate are my favorite drinks**
+- ⚡ Fun fact: **I play goalie in soccer and it teaches me how to handle pressure :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
