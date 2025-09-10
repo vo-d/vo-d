@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Ori.Gatou**
 
-- 🌱 I’m currently learning **Machine Learning and Project Management**
+- 🌱 I’m currently learning **Networking and Home Labbing**
 
 - 💬 Ask me about **Building a home lab, deployment of projects**
 
